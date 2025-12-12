@@ -58,13 +58,13 @@ Refleja esta retroalimentación en tu proyecto y asegúrate de depurar y mejorar
 
 5. Entrega Final:
 
-Subir tu portafolio y proyecto a GitHub o Behance (dependiendo de tu elección).
+Subir tu portafolio y proyecto a GitHub o Behance (dependiendo de tu elección). 📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
 
-Asegúrate de que el enlace a tu portafolio en línea esté accesible y funcional.
+Asegúrate de que el enlace a tu portafolio en línea esté accesible y funcional.  📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
 
-Subir el enlace al video tutorial en YouTube junto con los enlaces a tus proyectos alojados.
+Subir el enlace al video tutorial en YouTube junto con los enlaces a tus proyectos alojados.  📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
 
-Presenta un archivo README con el resumen de tus proyectos y el proceso de creación, los retos encontrados y cómo los solucionaste.
+Presenta un archivo README con el resumen de tus proyectos y el proceso de creación, los retos encontrados y cómo los solucionaste. 📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
 
 Requisitos
 
