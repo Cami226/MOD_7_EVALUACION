@@ -1,0 +1,140 @@
+📁 Portafolio de Proyectos – CAGV
+
+Este repositorio reúne los proyectos desarrollados durante mi proceso de aprendizaje en programación, con el objetivo de aplicar de forma práctica los conocimientos adquiridos en diferentes áreas del desarrollo de software.
+Aquí se encuentran los trabajos más importantes desarrollados a lo largo del bootcamp, organizados y documentados para su fácil consulta.
+
+🗂️ Resumen de Proyectos
+1. Proyecto Web – HTML + Bootstrap
+
+Desarrollo de una página web responsiva utilizando HTML, CSS y Bootstrap, enfocada en estructura, diseño visual, navegación y experiencia de usuario.
+
+🔗 Repositorio:https://github.com/Cami226/modulo-2.git
+
+2. Proyecto de Base de Datos – SQL
+
+Diseño y modelado de una base de datos relacional, incluyendo creación de tablas, relaciones, normalización y consultas SQL.
+
+🔗 Repositorio: https://github.com/Cami226/PORTAFOLIO-MOD-3--BASE-DE-DATOS-CAGV.git
+
+
+
+3. Proyecto Java por Consola
+
+Aplicación desarrollada en Java orientada al uso de estructuras de control, manejo de datos, colecciones y lógica de programación.
+
+🔗 Repositorio: https://github.com/Cami226/PORTAFOLIO-MOD-4-AGENDA.git
+
+
+4. Proyecto Jakarta EE (MVC – Servlets – JSP)
+
+Desarrollo de una aplicación web utilizando Jakarta EE, aplicando el patrón MVC, Servlets, JSP, JSTL y conexión a base de datos mediante JDBC.
+
+🔗 Repositorio: https://github.com/Cami226/PORTAFOLIO_MOD_5.git
+
+
+5. Proyecto Spring Boot – Gestión de Capacitaciones (CRUD)
+
+Aplicación empresarial realizada con Spring Boot, que permite crear, listar, actualizar y eliminar registros.
+Se implementaron capas Controller, Service y Repository, validación de datos, uso de plantillas Thymeleaf y conexión a base de datos MySQL o PostgreSQL.
+
+🔗 Repositorio: https://github.com/Cami226/PORTAFOLIO_MOD_6.git
+
+⚙️ Proceso de Creación
+
+El desarrollo de estos proyectos se realizó de manera incremental, comenzando con fundamentos de programación, luego desarrollo web, bases de datos y finalmente aplicaciones empresariales con Java y Spring Boot.
+
+Durante el proceso apliqué buenas prácticas como:
+
+Organización clara de carpetas y código
+
+Separación de responsabilidades por capas
+
+Control de versiones con Git y GitHub
+
+Pruebas manuales y depuración constante
+
+Documentación mediante README por proyecto
+
+
+🧩 Retos Encontrados
+
+Durante el desarrollo surgieron diversos desafíos, entre ellos:
+
+Comprender la estructura de proyectos web en Java
+
+Manejar errores de conexión a bases de datos
+
+Implementar correctamente el patrón MVC
+
+Diseñar relaciones adecuadas en bases de datos
+
+Integrar Thymeleaf con controladores Spring
+
+Resolver conflictos en Git y GitHub
+
+✅ Cómo se solucionaron
+
+Estos retos se resolvieron mediante:
+
+Investigación en documentación oficial
+
+Práctica continua y refactorización del código
+
+Consulta de ejemplos y proyectos similares
+
+Pruebas en entornos locales y remotos
+
+Uso de herramientas de debugging
+
+Trabajo progresivo por módulos
+
+
+
+
+
+🛠️ Tecnologías Utilizadas
+Backend
+
+Java 21
+
+Spring Boot 
+
+Spring MVC
+
+Spring Data JPA
+
+
+Jakarta EE (Servlets, JSP, JSTL)
+
+Bases de Datos
+
+MySQL
+
+
+SQL
+
+Frontend
+
+HTML5
+
+CSS3
+
+Bootstrap 5
+
+
+Herramientas
+
+Git
+
+GitHub
+
+Maven
+
+IDE: IntelliJ IDEA / Eclipse
+
+👩‍💻 Autora
+
+Cami G. V.
+GitHub: https://github.com/Cami226
+
+Portafolio Web: https://cami226.github.io/Portafolio-CAGV/
