@@ -2,9 +2,39 @@
 
 M7_Evaluación del módulo[Actividad Evaluada]
 
+
 Evaluación del módulo
 Esta actividad tiene como objetivo que crees y presentes un portafolio de productos que refleje tu aprendizaje y habilidades adquiridas a lo largo del curso. Este portafolio servirá como una herramienta clave para mostrar tus proyectos, desarrollos y capacidades técnicas.
 
+
+Entrega Final:
+
+Subir tu portafolio y proyecto a GitHub o Behance (dependiendo de tu elección).  📄 [Ver Portafolio de productos](https://github.com/Cami226/MOD_7_EVALUACION/blob/25700a83fa27f48106073326059f63f3c42ba0be/Portafolio%20de%20productos) 
+
+
+Asegúrate de que el enlace a tu portafolio en línea esté accesible y funcional.  📄 [Ver HOSTING GIT PAGES.txt](https://github.com/Cami226/MOD_7_EVALUACION/blob/25700a83fa27f48106073326059f63f3c42ba0be/HOSTING%20GIT%20PAGES.txt)
+
+Subir el enlace al video tutorial en YouTube junto con los enlaces a tus proyectos alojados.  📄 [Ver LINK DE YOUTUBE- EXPLICANDO POROYECTO.txt](https://github.com/Cami226/MOD_7_EVALUACION/blob/25700a83fa27f48106073326059f63f3c42ba0be/LINK%20DE%20YOUTUBE-%20EXPLICANDO%20POROYECTO.txt)
+
+Presenta un archivo README con el resumen de tus proyectos y el proceso de creación, los retos encontrados y cómo los solucionaste.  📄 [Ver feedback.txt](https://github.com/Cami226/MOD_7_EVALUACION/blob/25700a83fa27f48106073326059f63f3c42ba0be/feedback.txt)
+
+Requisitos
+
+Portafolio Atractivo: Asegúrate de que tu portafolio en GitHub o Behance sea profesional y organizado.
+
+Alojamiento: Debes alojar al menos un proyecto en línea utilizando un servicio gratuito de hosting.
+
+Video Tutorial: Presenta un video en YouTube que demuestre tus habilidades y explique tu producto.
+
+Feedback: Aplica la retroalimentación de tus compañeros para mejorar tus proyectos.
+
+Entregables: Incluye el enlace a tu portafolio, el video de YouTube y la documentación completa de tus proyectos.
+
+
+
+
+
+# GUIA DE PLATAFORMA
 Tu tarea es realizar los siguientes pasos:
 
 1. Creación del Portafolio de Productos:
@@ -56,24 +86,3 @@ Invita a otros compañeros o colegas a revisar tu portafolio y proyectos. Recibe
 
 Refleja esta retroalimentación en tu proyecto y asegúrate de depurar y mejorar la presentación y funcionalidad del producto final.
 
-5. Entrega Final:
-
-Subir tu portafolio y proyecto a GitHub o Behance (dependiendo de tu elección). 📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
-
-Asegúrate de que el enlace a tu portafolio en línea esté accesible y funcional.  📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
-
-Subir el enlace al video tutorial en YouTube junto con los enlaces a tus proyectos alojados.  📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
-
-Presenta un archivo README con el resumen de tus proyectos y el proceso de creación, los retos encontrados y cómo los solucionaste. 📄 [Ver feedback.txt](https://github.com/usuario/repositorio/blob/main/feedback.txt)
-
-Requisitos
-
-Portafolio Atractivo: Asegúrate de que tu portafolio en GitHub o Behance sea profesional y organizado.
-
-Alojamiento: Debes alojar al menos un proyecto en línea utilizando un servicio gratuito de hosting.
-
-Video Tutorial: Presenta un video en YouTube que demuestre tus habilidades y explique tu producto.
-
-Feedback: Aplica la retroalimentación de tus compañeros para mejorar tus proyectos.
-
-Entregables: Incluye el enlace a tu portafolio, el video de YouTube y la documentación completa de tus proyectos.
